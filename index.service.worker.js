@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1776685080|1518647024';
+const CACHE_VERSION = '1777191956|1495833302';
 /** @type {string} */
 const CACHE_PREFIX = 'VirtualMuseum-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
